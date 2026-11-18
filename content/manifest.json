@@ -1,0 +1,2291 @@
+{
+  "asset": {
+    "id": "the-long-dry-season",
+    "title": "The Long Dry Season — Field Notes 04",
+    "type": "documentary",
+    "durationSec": 90,
+    "segmentDurationSec": 2,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "generatedAt": "2026-11-18T11:55:02.475Z"
+  },
+  "video": {
+    "codec": "avc1.640028",
+    "representations": [
+      {
+        "id": "v0",
+        "width": 180,
+        "height": 320,
+        "nominalKbps": 100,
+        "actualKbps": 104,
+        "init": "content/v0/init.mp4",
+        "segments": [
+          {
+            "index": 0,
+            "startSec": 0,
+            "durationSec": 2,
+            "bytes": 11726,
+            "url": "content/v0/seg-00001.m4s"
+          },
+          {
+            "index": 1,
+            "startSec": 2,
+            "durationSec": 2,
+            "bytes": 22681,
+            "url": "content/v0/seg-00002.m4s"
+          },
+          {
+            "index": 2,
+            "startSec": 4,
+            "durationSec": 2,
+            "bytes": 30729,
+            "url": "content/v0/seg-00003.m4s"
+          },
+          {
+            "index": 3,
+            "startSec": 6,
+            "durationSec": 2,
+            "bytes": 25998,
+            "url": "content/v0/seg-00004.m4s"
+          },
+          {
+            "index": 4,
+            "startSec": 8,
+            "durationSec": 2,
+            "bytes": 23788,
+            "url": "content/v0/seg-00005.m4s"
+          },
+          {
+            "index": 5,
+            "startSec": 10,
+            "durationSec": 2,
+            "bytes": 26998,
+            "url": "content/v0/seg-00006.m4s"
+          },
+          {
+            "index": 6,
+            "startSec": 12,
+            "durationSec": 2,
+            "bytes": 27395,
+            "url": "content/v0/seg-00007.m4s"
+          },
+          {
+            "index": 7,
+            "startSec": 14,
+            "durationSec": 2,
+            "bytes": 25547,
+            "url": "content/v0/seg-00008.m4s"
+          },
+          {
+            "index": 8,
+            "startSec": 16,
+            "durationSec": 2,
+            "bytes": 25988,
+            "url": "content/v0/seg-00009.m4s"
+          },
+          {
+            "index": 9,
+            "startSec": 18,
+            "durationSec": 2,
+            "bytes": 26459,
+            "url": "content/v0/seg-00010.m4s"
+          },
+          {
+            "index": 10,
+            "startSec": 20,
+            "durationSec": 2,
+            "bytes": 26873,
+            "url": "content/v0/seg-00011.m4s"
+          },
+          {
+            "index": 11,
+            "startSec": 22,
+            "durationSec": 2,
+            "bytes": 28141,
+            "url": "content/v0/seg-00012.m4s"
+          },
+          {
+            "index": 12,
+            "startSec": 24,
+            "durationSec": 2,
+            "bytes": 27344,
+            "url": "content/v0/seg-00013.m4s"
+          },
+          {
+            "index": 13,
+            "startSec": 26,
+            "durationSec": 2,
+            "bytes": 26352,
+            "url": "content/v0/seg-00014.m4s"
+          },
+          {
+            "index": 14,
+            "startSec": 28,
+            "durationSec": 2,
+            "bytes": 26046,
+            "url": "content/v0/seg-00015.m4s"
+          },
+          {
+            "index": 15,
+            "startSec": 30,
+            "durationSec": 2,
+            "bytes": 26833,
+            "url": "content/v0/seg-00016.m4s"
+          },
+          {
+            "index": 16,
+            "startSec": 32,
+            "durationSec": 2,
+            "bytes": 26619,
+            "url": "content/v0/seg-00017.m4s"
+          },
+          {
+            "index": 17,
+            "startSec": 34,
+            "durationSec": 2,
+            "bytes": 26547,
+            "url": "content/v0/seg-00018.m4s"
+          },
+          {
+            "index": 18,
+            "startSec": 36,
+            "durationSec": 2,
+            "bytes": 27736,
+            "url": "content/v0/seg-00019.m4s"
+          },
+          {
+            "index": 19,
+            "startSec": 38,
+            "durationSec": 2,
+            "bytes": 26778,
+            "url": "content/v0/seg-00020.m4s"
+          },
+          {
+            "index": 20,
+            "startSec": 40,
+            "durationSec": 2,
+            "bytes": 26381,
+            "url": "content/v0/seg-00021.m4s"
+          },
+          {
+            "index": 21,
+            "startSec": 42,
+            "durationSec": 2,
+            "bytes": 26347,
+            "url": "content/v0/seg-00022.m4s"
+          },
+          {
+            "index": 22,
+            "startSec": 44,
+            "durationSec": 2,
+            "bytes": 26107,
+            "url": "content/v0/seg-00023.m4s"
+          },
+          {
+            "index": 23,
+            "startSec": 46,
+            "durationSec": 2,
+            "bytes": 25673,
+            "url": "content/v0/seg-00024.m4s"
+          },
+          {
+            "index": 24,
+            "startSec": 48,
+            "durationSec": 2,
+            "bytes": 25838,
+            "url": "content/v0/seg-00025.m4s"
+          },
+          {
+            "index": 25,
+            "startSec": 50,
+            "durationSec": 2,
+            "bytes": 25142,
+            "url": "content/v0/seg-00026.m4s"
+          },
+          {
+            "index": 26,
+            "startSec": 52,
+            "durationSec": 2,
+            "bytes": 27096,
+            "url": "content/v0/seg-00027.m4s"
+          },
+          {
+            "index": 27,
+            "startSec": 54,
+            "durationSec": 2,
+            "bytes": 25506,
+            "url": "content/v0/seg-00028.m4s"
+          },
+          {
+            "index": 28,
+            "startSec": 56,
+            "durationSec": 2,
+            "bytes": 25170,
+            "url": "content/v0/seg-00029.m4s"
+          },
+          {
+            "index": 29,
+            "startSec": 58,
+            "durationSec": 2,
+            "bytes": 25624,
+            "url": "content/v0/seg-00030.m4s"
+          },
+          {
+            "index": 30,
+            "startSec": 60,
+            "durationSec": 2,
+            "bytes": 26088,
+            "url": "content/v0/seg-00031.m4s"
+          },
+          {
+            "index": 31,
+            "startSec": 62,
+            "durationSec": 2,
+            "bytes": 25648,
+            "url": "content/v0/seg-00032.m4s"
+          },
+          {
+            "index": 32,
+            "startSec": 64,
+            "durationSec": 2,
+            "bytes": 26366,
+            "url": "content/v0/seg-00033.m4s"
+          },
+          {
+            "index": 33,
+            "startSec": 66,
+            "durationSec": 2,
+            "bytes": 25800,
+            "url": "content/v0/seg-00034.m4s"
+          },
+          {
+            "index": 34,
+            "startSec": 68,
+            "durationSec": 2,
+            "bytes": 26697,
+            "url": "content/v0/seg-00035.m4s"
+          },
+          {
+            "index": 35,
+            "startSec": 70,
+            "durationSec": 2,
+            "bytes": 25580,
+            "url": "content/v0/seg-00036.m4s"
+          },
+          {
+            "index": 36,
+            "startSec": 72,
+            "durationSec": 2,
+            "bytes": 26116,
+            "url": "content/v0/seg-00037.m4s"
+          },
+          {
+            "index": 37,
+            "startSec": 74,
+            "durationSec": 2,
+            "bytes": 25633,
+            "url": "content/v0/seg-00038.m4s"
+          },
+          {
+            "index": 38,
+            "startSec": 76,
+            "durationSec": 2,
+            "bytes": 25982,
+            "url": "content/v0/seg-00039.m4s"
+          },
+          {
+            "index": 39,
+            "startSec": 78,
+            "durationSec": 2,
+            "bytes": 26582,
+            "url": "content/v0/seg-00040.m4s"
+          },
+          {
+            "index": 40,
+            "startSec": 80,
+            "durationSec": 2,
+            "bytes": 25883,
+            "url": "content/v0/seg-00041.m4s"
+          },
+          {
+            "index": 41,
+            "startSec": 82,
+            "durationSec": 2,
+            "bytes": 26556,
+            "url": "content/v0/seg-00042.m4s"
+          },
+          {
+            "index": 42,
+            "startSec": 84,
+            "durationSec": 2,
+            "bytes": 26625,
+            "url": "content/v0/seg-00043.m4s"
+          },
+          {
+            "index": 43,
+            "startSec": 86,
+            "durationSec": 2,
+            "bytes": 25583,
+            "url": "content/v0/seg-00044.m4s"
+          },
+          {
+            "index": 44,
+            "startSec": 88,
+            "durationSec": 2,
+            "bytes": 25565,
+            "url": "content/v0/seg-00045.m4s"
+          }
+        ]
+      },
+      {
+        "id": "v1",
+        "width": 270,
+        "height": 480,
+        "nominalKbps": 200,
+        "actualKbps": 200,
+        "init": "content/v1/init.mp4",
+        "segments": [
+          {
+            "index": 0,
+            "startSec": 0,
+            "durationSec": 2,
+            "bytes": 27232,
+            "url": "content/v1/seg-00001.m4s"
+          },
+          {
+            "index": 1,
+            "startSec": 2,
+            "durationSec": 2,
+            "bytes": 44257,
+            "url": "content/v1/seg-00002.m4s"
+          },
+          {
+            "index": 2,
+            "startSec": 4,
+            "durationSec": 2,
+            "bytes": 48765,
+            "url": "content/v1/seg-00003.m4s"
+          },
+          {
+            "index": 3,
+            "startSec": 6,
+            "durationSec": 2,
+            "bytes": 50324,
+            "url": "content/v1/seg-00004.m4s"
+          },
+          {
+            "index": 4,
+            "startSec": 8,
+            "durationSec": 2,
+            "bytes": 50084,
+            "url": "content/v1/seg-00005.m4s"
+          },
+          {
+            "index": 5,
+            "startSec": 10,
+            "durationSec": 2,
+            "bytes": 53943,
+            "url": "content/v1/seg-00006.m4s"
+          },
+          {
+            "index": 6,
+            "startSec": 12,
+            "durationSec": 2,
+            "bytes": 50867,
+            "url": "content/v1/seg-00007.m4s"
+          },
+          {
+            "index": 7,
+            "startSec": 14,
+            "durationSec": 2,
+            "bytes": 50077,
+            "url": "content/v1/seg-00008.m4s"
+          },
+          {
+            "index": 8,
+            "startSec": 16,
+            "durationSec": 2,
+            "bytes": 50833,
+            "url": "content/v1/seg-00009.m4s"
+          },
+          {
+            "index": 9,
+            "startSec": 18,
+            "durationSec": 2,
+            "bytes": 51269,
+            "url": "content/v1/seg-00010.m4s"
+          },
+          {
+            "index": 10,
+            "startSec": 20,
+            "durationSec": 2,
+            "bytes": 52663,
+            "url": "content/v1/seg-00011.m4s"
+          },
+          {
+            "index": 11,
+            "startSec": 22,
+            "durationSec": 2,
+            "bytes": 50701,
+            "url": "content/v1/seg-00012.m4s"
+          },
+          {
+            "index": 12,
+            "startSec": 24,
+            "durationSec": 2,
+            "bytes": 48212,
+            "url": "content/v1/seg-00013.m4s"
+          },
+          {
+            "index": 13,
+            "startSec": 26,
+            "durationSec": 2,
+            "bytes": 52863,
+            "url": "content/v1/seg-00014.m4s"
+          },
+          {
+            "index": 14,
+            "startSec": 28,
+            "durationSec": 2,
+            "bytes": 51176,
+            "url": "content/v1/seg-00015.m4s"
+          },
+          {
+            "index": 15,
+            "startSec": 30,
+            "durationSec": 2,
+            "bytes": 49318,
+            "url": "content/v1/seg-00016.m4s"
+          },
+          {
+            "index": 16,
+            "startSec": 32,
+            "durationSec": 2,
+            "bytes": 50459,
+            "url": "content/v1/seg-00017.m4s"
+          },
+          {
+            "index": 17,
+            "startSec": 34,
+            "durationSec": 2,
+            "bytes": 52329,
+            "url": "content/v1/seg-00018.m4s"
+          },
+          {
+            "index": 18,
+            "startSec": 36,
+            "durationSec": 2,
+            "bytes": 49759,
+            "url": "content/v1/seg-00019.m4s"
+          },
+          {
+            "index": 19,
+            "startSec": 38,
+            "durationSec": 2,
+            "bytes": 52273,
+            "url": "content/v1/seg-00020.m4s"
+          },
+          {
+            "index": 20,
+            "startSec": 40,
+            "durationSec": 2,
+            "bytes": 52087,
+            "url": "content/v1/seg-00021.m4s"
+          },
+          {
+            "index": 21,
+            "startSec": 42,
+            "durationSec": 2,
+            "bytes": 50389,
+            "url": "content/v1/seg-00022.m4s"
+          },
+          {
+            "index": 22,
+            "startSec": 44,
+            "durationSec": 2,
+            "bytes": 49634,
+            "url": "content/v1/seg-00023.m4s"
+          },
+          {
+            "index": 23,
+            "startSec": 46,
+            "durationSec": 2,
+            "bytes": 48113,
+            "url": "content/v1/seg-00024.m4s"
+          },
+          {
+            "index": 24,
+            "startSec": 48,
+            "durationSec": 2,
+            "bytes": 48512,
+            "url": "content/v1/seg-00025.m4s"
+          },
+          {
+            "index": 25,
+            "startSec": 50,
+            "durationSec": 2,
+            "bytes": 47380,
+            "url": "content/v1/seg-00026.m4s"
+          },
+          {
+            "index": 26,
+            "startSec": 52,
+            "durationSec": 2,
+            "bytes": 49206,
+            "url": "content/v1/seg-00027.m4s"
+          },
+          {
+            "index": 27,
+            "startSec": 54,
+            "durationSec": 2,
+            "bytes": 49096,
+            "url": "content/v1/seg-00028.m4s"
+          },
+          {
+            "index": 28,
+            "startSec": 56,
+            "durationSec": 2,
+            "bytes": 51533,
+            "url": "content/v1/seg-00029.m4s"
+          },
+          {
+            "index": 29,
+            "startSec": 58,
+            "durationSec": 2,
+            "bytes": 49725,
+            "url": "content/v1/seg-00030.m4s"
+          },
+          {
+            "index": 30,
+            "startSec": 60,
+            "durationSec": 2,
+            "bytes": 50458,
+            "url": "content/v1/seg-00031.m4s"
+          },
+          {
+            "index": 31,
+            "startSec": 62,
+            "durationSec": 2,
+            "bytes": 50865,
+            "url": "content/v1/seg-00032.m4s"
+          },
+          {
+            "index": 32,
+            "startSec": 64,
+            "durationSec": 2,
+            "bytes": 50364,
+            "url": "content/v1/seg-00033.m4s"
+          },
+          {
+            "index": 33,
+            "startSec": 66,
+            "durationSec": 2,
+            "bytes": 50569,
+            "url": "content/v1/seg-00034.m4s"
+          },
+          {
+            "index": 34,
+            "startSec": 68,
+            "durationSec": 2,
+            "bytes": 52361,
+            "url": "content/v1/seg-00035.m4s"
+          },
+          {
+            "index": 35,
+            "startSec": 70,
+            "durationSec": 2,
+            "bytes": 51602,
+            "url": "content/v1/seg-00036.m4s"
+          },
+          {
+            "index": 36,
+            "startSec": 72,
+            "durationSec": 2,
+            "bytes": 51622,
+            "url": "content/v1/seg-00037.m4s"
+          },
+          {
+            "index": 37,
+            "startSec": 74,
+            "durationSec": 2,
+            "bytes": 50957,
+            "url": "content/v1/seg-00038.m4s"
+          },
+          {
+            "index": 38,
+            "startSec": 76,
+            "durationSec": 2,
+            "bytes": 51176,
+            "url": "content/v1/seg-00039.m4s"
+          },
+          {
+            "index": 39,
+            "startSec": 78,
+            "durationSec": 2,
+            "bytes": 49643,
+            "url": "content/v1/seg-00040.m4s"
+          },
+          {
+            "index": 40,
+            "startSec": 80,
+            "durationSec": 2,
+            "bytes": 51006,
+            "url": "content/v1/seg-00041.m4s"
+          },
+          {
+            "index": 41,
+            "startSec": 82,
+            "durationSec": 2,
+            "bytes": 52824,
+            "url": "content/v1/seg-00042.m4s"
+          },
+          {
+            "index": 42,
+            "startSec": 84,
+            "durationSec": 2,
+            "bytes": 50719,
+            "url": "content/v1/seg-00043.m4s"
+          },
+          {
+            "index": 43,
+            "startSec": 86,
+            "durationSec": 2,
+            "bytes": 50531,
+            "url": "content/v1/seg-00044.m4s"
+          },
+          {
+            "index": 44,
+            "startSec": 88,
+            "durationSec": 2,
+            "bytes": 51637,
+            "url": "content/v1/seg-00045.m4s"
+          }
+        ]
+      },
+      {
+        "id": "v2",
+        "width": 360,
+        "height": 640,
+        "nominalKbps": 400,
+        "actualKbps": 396,
+        "init": "content/v2/init.mp4",
+        "segments": [
+          {
+            "index": 0,
+            "startSec": 0,
+            "durationSec": 2,
+            "bytes": 66703,
+            "url": "content/v2/seg-00001.m4s"
+          },
+          {
+            "index": 1,
+            "startSec": 2,
+            "durationSec": 2,
+            "bytes": 91284,
+            "url": "content/v2/seg-00002.m4s"
+          },
+          {
+            "index": 2,
+            "startSec": 4,
+            "durationSec": 2,
+            "bytes": 92319,
+            "url": "content/v2/seg-00003.m4s"
+          },
+          {
+            "index": 3,
+            "startSec": 6,
+            "durationSec": 2,
+            "bytes": 104386,
+            "url": "content/v2/seg-00004.m4s"
+          },
+          {
+            "index": 4,
+            "startSec": 8,
+            "durationSec": 2,
+            "bytes": 96598,
+            "url": "content/v2/seg-00005.m4s"
+          },
+          {
+            "index": 5,
+            "startSec": 10,
+            "durationSec": 2,
+            "bytes": 100217,
+            "url": "content/v2/seg-00006.m4s"
+          },
+          {
+            "index": 6,
+            "startSec": 12,
+            "durationSec": 2,
+            "bytes": 102514,
+            "url": "content/v2/seg-00007.m4s"
+          },
+          {
+            "index": 7,
+            "startSec": 14,
+            "durationSec": 2,
+            "bytes": 97094,
+            "url": "content/v2/seg-00008.m4s"
+          },
+          {
+            "index": 8,
+            "startSec": 16,
+            "durationSec": 2,
+            "bytes": 102074,
+            "url": "content/v2/seg-00009.m4s"
+          },
+          {
+            "index": 9,
+            "startSec": 18,
+            "durationSec": 2,
+            "bytes": 98843,
+            "url": "content/v2/seg-00010.m4s"
+          },
+          {
+            "index": 10,
+            "startSec": 20,
+            "durationSec": 2,
+            "bytes": 101633,
+            "url": "content/v2/seg-00011.m4s"
+          },
+          {
+            "index": 11,
+            "startSec": 22,
+            "durationSec": 2,
+            "bytes": 103408,
+            "url": "content/v2/seg-00012.m4s"
+          },
+          {
+            "index": 12,
+            "startSec": 24,
+            "durationSec": 2,
+            "bytes": 99616,
+            "url": "content/v2/seg-00013.m4s"
+          },
+          {
+            "index": 13,
+            "startSec": 26,
+            "durationSec": 2,
+            "bytes": 96901,
+            "url": "content/v2/seg-00014.m4s"
+          },
+          {
+            "index": 14,
+            "startSec": 28,
+            "durationSec": 2,
+            "bytes": 99392,
+            "url": "content/v2/seg-00015.m4s"
+          },
+          {
+            "index": 15,
+            "startSec": 30,
+            "durationSec": 2,
+            "bytes": 103065,
+            "url": "content/v2/seg-00016.m4s"
+          },
+          {
+            "index": 16,
+            "startSec": 32,
+            "durationSec": 2,
+            "bytes": 102188,
+            "url": "content/v2/seg-00017.m4s"
+          },
+          {
+            "index": 17,
+            "startSec": 34,
+            "durationSec": 2,
+            "bytes": 98914,
+            "url": "content/v2/seg-00018.m4s"
+          },
+          {
+            "index": 18,
+            "startSec": 36,
+            "durationSec": 2,
+            "bytes": 99196,
+            "url": "content/v2/seg-00019.m4s"
+          },
+          {
+            "index": 19,
+            "startSec": 38,
+            "durationSec": 2,
+            "bytes": 97902,
+            "url": "content/v2/seg-00020.m4s"
+          },
+          {
+            "index": 20,
+            "startSec": 40,
+            "durationSec": 2,
+            "bytes": 100601,
+            "url": "content/v2/seg-00021.m4s"
+          },
+          {
+            "index": 21,
+            "startSec": 42,
+            "durationSec": 2,
+            "bytes": 101439,
+            "url": "content/v2/seg-00022.m4s"
+          },
+          {
+            "index": 22,
+            "startSec": 44,
+            "durationSec": 2,
+            "bytes": 101816,
+            "url": "content/v2/seg-00023.m4s"
+          },
+          {
+            "index": 23,
+            "startSec": 46,
+            "durationSec": 2,
+            "bytes": 97005,
+            "url": "content/v2/seg-00024.m4s"
+          },
+          {
+            "index": 24,
+            "startSec": 48,
+            "durationSec": 2,
+            "bytes": 95754,
+            "url": "content/v2/seg-00025.m4s"
+          },
+          {
+            "index": 25,
+            "startSec": 50,
+            "durationSec": 2,
+            "bytes": 96265,
+            "url": "content/v2/seg-00026.m4s"
+          },
+          {
+            "index": 26,
+            "startSec": 52,
+            "durationSec": 2,
+            "bytes": 98279,
+            "url": "content/v2/seg-00027.m4s"
+          },
+          {
+            "index": 27,
+            "startSec": 54,
+            "durationSec": 2,
+            "bytes": 98824,
+            "url": "content/v2/seg-00028.m4s"
+          },
+          {
+            "index": 28,
+            "startSec": 56,
+            "durationSec": 2,
+            "bytes": 101572,
+            "url": "content/v2/seg-00029.m4s"
+          },
+          {
+            "index": 29,
+            "startSec": 58,
+            "durationSec": 2,
+            "bytes": 99403,
+            "url": "content/v2/seg-00030.m4s"
+          },
+          {
+            "index": 30,
+            "startSec": 60,
+            "durationSec": 2,
+            "bytes": 100296,
+            "url": "content/v2/seg-00031.m4s"
+          },
+          {
+            "index": 31,
+            "startSec": 62,
+            "durationSec": 2,
+            "bytes": 100418,
+            "url": "content/v2/seg-00032.m4s"
+          },
+          {
+            "index": 32,
+            "startSec": 64,
+            "durationSec": 2,
+            "bytes": 100479,
+            "url": "content/v2/seg-00033.m4s"
+          },
+          {
+            "index": 33,
+            "startSec": 66,
+            "durationSec": 2,
+            "bytes": 102404,
+            "url": "content/v2/seg-00034.m4s"
+          },
+          {
+            "index": 34,
+            "startSec": 68,
+            "durationSec": 2,
+            "bytes": 101906,
+            "url": "content/v2/seg-00035.m4s"
+          },
+          {
+            "index": 35,
+            "startSec": 70,
+            "durationSec": 2,
+            "bytes": 104617,
+            "url": "content/v2/seg-00036.m4s"
+          },
+          {
+            "index": 36,
+            "startSec": 72,
+            "durationSec": 2,
+            "bytes": 97777,
+            "url": "content/v2/seg-00037.m4s"
+          },
+          {
+            "index": 37,
+            "startSec": 74,
+            "durationSec": 2,
+            "bytes": 98165,
+            "url": "content/v2/seg-00038.m4s"
+          },
+          {
+            "index": 38,
+            "startSec": 76,
+            "durationSec": 2,
+            "bytes": 100451,
+            "url": "content/v2/seg-00039.m4s"
+          },
+          {
+            "index": 39,
+            "startSec": 78,
+            "durationSec": 2,
+            "bytes": 98235,
+            "url": "content/v2/seg-00040.m4s"
+          },
+          {
+            "index": 40,
+            "startSec": 80,
+            "durationSec": 2,
+            "bytes": 101033,
+            "url": "content/v2/seg-00041.m4s"
+          },
+          {
+            "index": 41,
+            "startSec": 82,
+            "durationSec": 2,
+            "bytes": 103358,
+            "url": "content/v2/seg-00042.m4s"
+          },
+          {
+            "index": 42,
+            "startSec": 84,
+            "durationSec": 2,
+            "bytes": 101517,
+            "url": "content/v2/seg-00043.m4s"
+          },
+          {
+            "index": 43,
+            "startSec": 86,
+            "durationSec": 2,
+            "bytes": 101019,
+            "url": "content/v2/seg-00044.m4s"
+          },
+          {
+            "index": 44,
+            "startSec": 88,
+            "durationSec": 2,
+            "bytes": 99963,
+            "url": "content/v2/seg-00045.m4s"
+          }
+        ]
+      },
+      {
+        "id": "v3",
+        "width": 540,
+        "height": 960,
+        "nominalKbps": 850,
+        "actualKbps": 837,
+        "init": "content/v3/init.mp4",
+        "segments": [
+          {
+            "index": 0,
+            "startSec": 0,
+            "durationSec": 2,
+            "bytes": 187259,
+            "url": "content/v3/seg-00001.m4s"
+          },
+          {
+            "index": 1,
+            "startSec": 2,
+            "durationSec": 2,
+            "bytes": 165265,
+            "url": "content/v3/seg-00002.m4s"
+          },
+          {
+            "index": 2,
+            "startSec": 4,
+            "durationSec": 2,
+            "bytes": 183172,
+            "url": "content/v3/seg-00003.m4s"
+          },
+          {
+            "index": 3,
+            "startSec": 6,
+            "durationSec": 2,
+            "bytes": 211372,
+            "url": "content/v3/seg-00004.m4s"
+          },
+          {
+            "index": 4,
+            "startSec": 8,
+            "durationSec": 2,
+            "bytes": 206178,
+            "url": "content/v3/seg-00005.m4s"
+          },
+          {
+            "index": 5,
+            "startSec": 10,
+            "durationSec": 2,
+            "bytes": 202529,
+            "url": "content/v3/seg-00006.m4s"
+          },
+          {
+            "index": 6,
+            "startSec": 12,
+            "durationSec": 2,
+            "bytes": 211669,
+            "url": "content/v3/seg-00007.m4s"
+          },
+          {
+            "index": 7,
+            "startSec": 14,
+            "durationSec": 2,
+            "bytes": 211699,
+            "url": "content/v3/seg-00008.m4s"
+          },
+          {
+            "index": 8,
+            "startSec": 16,
+            "durationSec": 2,
+            "bytes": 212117,
+            "url": "content/v3/seg-00009.m4s"
+          },
+          {
+            "index": 9,
+            "startSec": 18,
+            "durationSec": 2,
+            "bytes": 202144,
+            "url": "content/v3/seg-00010.m4s"
+          },
+          {
+            "index": 10,
+            "startSec": 20,
+            "durationSec": 2,
+            "bytes": 219384,
+            "url": "content/v3/seg-00011.m4s"
+          },
+          {
+            "index": 11,
+            "startSec": 22,
+            "durationSec": 2,
+            "bytes": 216810,
+            "url": "content/v3/seg-00012.m4s"
+          },
+          {
+            "index": 12,
+            "startSec": 24,
+            "durationSec": 2,
+            "bytes": 209239,
+            "url": "content/v3/seg-00013.m4s"
+          },
+          {
+            "index": 13,
+            "startSec": 26,
+            "durationSec": 2,
+            "bytes": 216113,
+            "url": "content/v3/seg-00014.m4s"
+          },
+          {
+            "index": 14,
+            "startSec": 28,
+            "durationSec": 2,
+            "bytes": 210383,
+            "url": "content/v3/seg-00015.m4s"
+          },
+          {
+            "index": 15,
+            "startSec": 30,
+            "durationSec": 2,
+            "bytes": 210347,
+            "url": "content/v3/seg-00016.m4s"
+          },
+          {
+            "index": 16,
+            "startSec": 32,
+            "durationSec": 2,
+            "bytes": 208410,
+            "url": "content/v3/seg-00017.m4s"
+          },
+          {
+            "index": 17,
+            "startSec": 34,
+            "durationSec": 2,
+            "bytes": 214428,
+            "url": "content/v3/seg-00018.m4s"
+          },
+          {
+            "index": 18,
+            "startSec": 36,
+            "durationSec": 2,
+            "bytes": 208372,
+            "url": "content/v3/seg-00019.m4s"
+          },
+          {
+            "index": 19,
+            "startSec": 38,
+            "durationSec": 2,
+            "bytes": 224947,
+            "url": "content/v3/seg-00020.m4s"
+          },
+          {
+            "index": 20,
+            "startSec": 40,
+            "durationSec": 2,
+            "bytes": 212367,
+            "url": "content/v3/seg-00021.m4s"
+          },
+          {
+            "index": 21,
+            "startSec": 42,
+            "durationSec": 2,
+            "bytes": 205678,
+            "url": "content/v3/seg-00022.m4s"
+          },
+          {
+            "index": 22,
+            "startSec": 44,
+            "durationSec": 2,
+            "bytes": 222408,
+            "url": "content/v3/seg-00023.m4s"
+          },
+          {
+            "index": 23,
+            "startSec": 46,
+            "durationSec": 2,
+            "bytes": 209588,
+            "url": "content/v3/seg-00024.m4s"
+          },
+          {
+            "index": 24,
+            "startSec": 48,
+            "durationSec": 2,
+            "bytes": 208507,
+            "url": "content/v3/seg-00025.m4s"
+          },
+          {
+            "index": 25,
+            "startSec": 50,
+            "durationSec": 2,
+            "bytes": 206997,
+            "url": "content/v3/seg-00026.m4s"
+          },
+          {
+            "index": 26,
+            "startSec": 52,
+            "durationSec": 2,
+            "bytes": 209329,
+            "url": "content/v3/seg-00027.m4s"
+          },
+          {
+            "index": 27,
+            "startSec": 54,
+            "durationSec": 2,
+            "bytes": 219196,
+            "url": "content/v3/seg-00028.m4s"
+          },
+          {
+            "index": 28,
+            "startSec": 56,
+            "durationSec": 2,
+            "bytes": 210927,
+            "url": "content/v3/seg-00029.m4s"
+          },
+          {
+            "index": 29,
+            "startSec": 58,
+            "durationSec": 2,
+            "bytes": 206200,
+            "url": "content/v3/seg-00030.m4s"
+          },
+          {
+            "index": 30,
+            "startSec": 60,
+            "durationSec": 2,
+            "bytes": 209567,
+            "url": "content/v3/seg-00031.m4s"
+          },
+          {
+            "index": 31,
+            "startSec": 62,
+            "durationSec": 2,
+            "bytes": 203504,
+            "url": "content/v3/seg-00032.m4s"
+          },
+          {
+            "index": 32,
+            "startSec": 64,
+            "durationSec": 2,
+            "bytes": 209140,
+            "url": "content/v3/seg-00033.m4s"
+          },
+          {
+            "index": 33,
+            "startSec": 66,
+            "durationSec": 2,
+            "bytes": 205883,
+            "url": "content/v3/seg-00034.m4s"
+          },
+          {
+            "index": 34,
+            "startSec": 68,
+            "durationSec": 2,
+            "bytes": 218625,
+            "url": "content/v3/seg-00035.m4s"
+          },
+          {
+            "index": 35,
+            "startSec": 70,
+            "durationSec": 2,
+            "bytes": 216509,
+            "url": "content/v3/seg-00036.m4s"
+          },
+          {
+            "index": 36,
+            "startSec": 72,
+            "durationSec": 2,
+            "bytes": 215068,
+            "url": "content/v3/seg-00037.m4s"
+          },
+          {
+            "index": 37,
+            "startSec": 74,
+            "durationSec": 2,
+            "bytes": 208547,
+            "url": "content/v3/seg-00038.m4s"
+          },
+          {
+            "index": 38,
+            "startSec": 76,
+            "durationSec": 2,
+            "bytes": 209676,
+            "url": "content/v3/seg-00039.m4s"
+          },
+          {
+            "index": 39,
+            "startSec": 78,
+            "durationSec": 2,
+            "bytes": 214817,
+            "url": "content/v3/seg-00040.m4s"
+          },
+          {
+            "index": 40,
+            "startSec": 80,
+            "durationSec": 2,
+            "bytes": 205564,
+            "url": "content/v3/seg-00041.m4s"
+          },
+          {
+            "index": 41,
+            "startSec": 82,
+            "durationSec": 2,
+            "bytes": 213957,
+            "url": "content/v3/seg-00042.m4s"
+          },
+          {
+            "index": 42,
+            "startSec": 84,
+            "durationSec": 2,
+            "bytes": 211206,
+            "url": "content/v3/seg-00043.m4s"
+          },
+          {
+            "index": 43,
+            "startSec": 86,
+            "durationSec": 2,
+            "bytes": 216943,
+            "url": "content/v3/seg-00044.m4s"
+          },
+          {
+            "index": 44,
+            "startSec": 88,
+            "durationSec": 2,
+            "bytes": 212538,
+            "url": "content/v3/seg-00045.m4s"
+          }
+        ]
+      },
+      {
+        "id": "v4",
+        "width": 720,
+        "height": 1280,
+        "nominalKbps": 1700,
+        "actualKbps": 1660,
+        "init": "content/v4/init.mp4",
+        "segments": [
+          {
+            "index": 0,
+            "startSec": 0,
+            "durationSec": 2,
+            "bytes": 398323,
+            "url": "content/v4/seg-00001.m4s"
+          },
+          {
+            "index": 1,
+            "startSec": 2,
+            "durationSec": 2,
+            "bytes": 321422,
+            "url": "content/v4/seg-00002.m4s"
+          },
+          {
+            "index": 2,
+            "startSec": 4,
+            "durationSec": 2,
+            "bytes": 367001,
+            "url": "content/v4/seg-00003.m4s"
+          },
+          {
+            "index": 3,
+            "startSec": 6,
+            "durationSec": 2,
+            "bytes": 421685,
+            "url": "content/v4/seg-00004.m4s"
+          },
+          {
+            "index": 4,
+            "startSec": 8,
+            "durationSec": 2,
+            "bytes": 381525,
+            "url": "content/v4/seg-00005.m4s"
+          },
+          {
+            "index": 5,
+            "startSec": 10,
+            "durationSec": 2,
+            "bytes": 409040,
+            "url": "content/v4/seg-00006.m4s"
+          },
+          {
+            "index": 6,
+            "startSec": 12,
+            "durationSec": 2,
+            "bytes": 421373,
+            "url": "content/v4/seg-00007.m4s"
+          },
+          {
+            "index": 7,
+            "startSec": 14,
+            "durationSec": 2,
+            "bytes": 390314,
+            "url": "content/v4/seg-00008.m4s"
+          },
+          {
+            "index": 8,
+            "startSec": 16,
+            "durationSec": 2,
+            "bytes": 428584,
+            "url": "content/v4/seg-00009.m4s"
+          },
+          {
+            "index": 9,
+            "startSec": 18,
+            "durationSec": 2,
+            "bytes": 437360,
+            "url": "content/v4/seg-00010.m4s"
+          },
+          {
+            "index": 10,
+            "startSec": 20,
+            "durationSec": 2,
+            "bytes": 424890,
+            "url": "content/v4/seg-00011.m4s"
+          },
+          {
+            "index": 11,
+            "startSec": 22,
+            "durationSec": 2,
+            "bytes": 411854,
+            "url": "content/v4/seg-00012.m4s"
+          },
+          {
+            "index": 12,
+            "startSec": 24,
+            "durationSec": 2,
+            "bytes": 433259,
+            "url": "content/v4/seg-00013.m4s"
+          },
+          {
+            "index": 13,
+            "startSec": 26,
+            "durationSec": 2,
+            "bytes": 421072,
+            "url": "content/v4/seg-00014.m4s"
+          },
+          {
+            "index": 14,
+            "startSec": 28,
+            "durationSec": 2,
+            "bytes": 413872,
+            "url": "content/v4/seg-00015.m4s"
+          },
+          {
+            "index": 15,
+            "startSec": 30,
+            "durationSec": 2,
+            "bytes": 412398,
+            "url": "content/v4/seg-00016.m4s"
+          },
+          {
+            "index": 16,
+            "startSec": 32,
+            "durationSec": 2,
+            "bytes": 412330,
+            "url": "content/v4/seg-00017.m4s"
+          },
+          {
+            "index": 17,
+            "startSec": 34,
+            "durationSec": 2,
+            "bytes": 428874,
+            "url": "content/v4/seg-00018.m4s"
+          },
+          {
+            "index": 18,
+            "startSec": 36,
+            "durationSec": 2,
+            "bytes": 417583,
+            "url": "content/v4/seg-00019.m4s"
+          },
+          {
+            "index": 19,
+            "startSec": 38,
+            "durationSec": 2,
+            "bytes": 428159,
+            "url": "content/v4/seg-00020.m4s"
+          },
+          {
+            "index": 20,
+            "startSec": 40,
+            "durationSec": 2,
+            "bytes": 422471,
+            "url": "content/v4/seg-00021.m4s"
+          },
+          {
+            "index": 21,
+            "startSec": 42,
+            "durationSec": 2,
+            "bytes": 413868,
+            "url": "content/v4/seg-00022.m4s"
+          },
+          {
+            "index": 22,
+            "startSec": 44,
+            "durationSec": 2,
+            "bytes": 411917,
+            "url": "content/v4/seg-00023.m4s"
+          },
+          {
+            "index": 23,
+            "startSec": 46,
+            "durationSec": 2,
+            "bytes": 441469,
+            "url": "content/v4/seg-00024.m4s"
+          },
+          {
+            "index": 24,
+            "startSec": 48,
+            "durationSec": 2,
+            "bytes": 408705,
+            "url": "content/v4/seg-00025.m4s"
+          },
+          {
+            "index": 25,
+            "startSec": 50,
+            "durationSec": 2,
+            "bytes": 414063,
+            "url": "content/v4/seg-00026.m4s"
+          },
+          {
+            "index": 26,
+            "startSec": 52,
+            "durationSec": 2,
+            "bytes": 427065,
+            "url": "content/v4/seg-00027.m4s"
+          },
+          {
+            "index": 27,
+            "startSec": 54,
+            "durationSec": 2,
+            "bytes": 413047,
+            "url": "content/v4/seg-00028.m4s"
+          },
+          {
+            "index": 28,
+            "startSec": 56,
+            "durationSec": 2,
+            "bytes": 408571,
+            "url": "content/v4/seg-00029.m4s"
+          },
+          {
+            "index": 29,
+            "startSec": 58,
+            "durationSec": 2,
+            "bytes": 434979,
+            "url": "content/v4/seg-00030.m4s"
+          },
+          {
+            "index": 30,
+            "startSec": 60,
+            "durationSec": 2,
+            "bytes": 421176,
+            "url": "content/v4/seg-00031.m4s"
+          },
+          {
+            "index": 31,
+            "startSec": 62,
+            "durationSec": 2,
+            "bytes": 432735,
+            "url": "content/v4/seg-00032.m4s"
+          },
+          {
+            "index": 32,
+            "startSec": 64,
+            "durationSec": 2,
+            "bytes": 428102,
+            "url": "content/v4/seg-00033.m4s"
+          },
+          {
+            "index": 33,
+            "startSec": 66,
+            "durationSec": 2,
+            "bytes": 419988,
+            "url": "content/v4/seg-00034.m4s"
+          },
+          {
+            "index": 34,
+            "startSec": 68,
+            "durationSec": 2,
+            "bytes": 404595,
+            "url": "content/v4/seg-00035.m4s"
+          },
+          {
+            "index": 35,
+            "startSec": 70,
+            "durationSec": 2,
+            "bytes": 425373,
+            "url": "content/v4/seg-00036.m4s"
+          },
+          {
+            "index": 36,
+            "startSec": 72,
+            "durationSec": 2,
+            "bytes": 399947,
+            "url": "content/v4/seg-00037.m4s"
+          },
+          {
+            "index": 37,
+            "startSec": 74,
+            "durationSec": 2,
+            "bytes": 421318,
+            "url": "content/v4/seg-00038.m4s"
+          },
+          {
+            "index": 38,
+            "startSec": 76,
+            "durationSec": 2,
+            "bytes": 432120,
+            "url": "content/v4/seg-00039.m4s"
+          },
+          {
+            "index": 39,
+            "startSec": 78,
+            "durationSec": 2,
+            "bytes": 422966,
+            "url": "content/v4/seg-00040.m4s"
+          },
+          {
+            "index": 40,
+            "startSec": 80,
+            "durationSec": 2,
+            "bytes": 408484,
+            "url": "content/v4/seg-00041.m4s"
+          },
+          {
+            "index": 41,
+            "startSec": 82,
+            "durationSec": 2,
+            "bytes": 412360,
+            "url": "content/v4/seg-00042.m4s"
+          },
+          {
+            "index": 42,
+            "startSec": 84,
+            "durationSec": 2,
+            "bytes": 415335,
+            "url": "content/v4/seg-00043.m4s"
+          },
+          {
+            "index": 43,
+            "startSec": 86,
+            "durationSec": 2,
+            "bytes": 427292,
+            "url": "content/v4/seg-00044.m4s"
+          },
+          {
+            "index": 44,
+            "startSec": 88,
+            "durationSec": 2,
+            "bytes": 423613,
+            "url": "content/v4/seg-00045.m4s"
+          }
+        ]
+      },
+      {
+        "id": "v5",
+        "width": 1080,
+        "height": 1920,
+        "nominalKbps": 3200,
+        "actualKbps": 3127,
+        "init": "content/v5/init.mp4",
+        "segments": [
+          {
+            "index": 0,
+            "startSec": 0,
+            "durationSec": 2,
+            "bytes": 571532,
+            "url": "content/v5/seg-00001.m4s"
+          },
+          {
+            "index": 1,
+            "startSec": 2,
+            "durationSec": 2,
+            "bytes": 840677,
+            "url": "content/v5/seg-00002.m4s"
+          },
+          {
+            "index": 2,
+            "startSec": 4,
+            "durationSec": 2,
+            "bytes": 689057,
+            "url": "content/v5/seg-00003.m4s"
+          },
+          {
+            "index": 3,
+            "startSec": 6,
+            "durationSec": 2,
+            "bytes": 756599,
+            "url": "content/v5/seg-00004.m4s"
+          },
+          {
+            "index": 4,
+            "startSec": 8,
+            "durationSec": 2,
+            "bytes": 832542,
+            "url": "content/v5/seg-00005.m4s"
+          },
+          {
+            "index": 5,
+            "startSec": 10,
+            "durationSec": 2,
+            "bytes": 704524,
+            "url": "content/v5/seg-00006.m4s"
+          },
+          {
+            "index": 6,
+            "startSec": 12,
+            "durationSec": 2,
+            "bytes": 736128,
+            "url": "content/v5/seg-00007.m4s"
+          },
+          {
+            "index": 7,
+            "startSec": 14,
+            "durationSec": 2,
+            "bytes": 718059,
+            "url": "content/v5/seg-00008.m4s"
+          },
+          {
+            "index": 8,
+            "startSec": 16,
+            "durationSec": 2,
+            "bytes": 837106,
+            "url": "content/v5/seg-00009.m4s"
+          },
+          {
+            "index": 9,
+            "startSec": 18,
+            "durationSec": 2,
+            "bytes": 780377,
+            "url": "content/v5/seg-00010.m4s"
+          },
+          {
+            "index": 10,
+            "startSec": 20,
+            "durationSec": 2,
+            "bytes": 779296,
+            "url": "content/v5/seg-00011.m4s"
+          },
+          {
+            "index": 11,
+            "startSec": 22,
+            "durationSec": 2,
+            "bytes": 756968,
+            "url": "content/v5/seg-00012.m4s"
+          },
+          {
+            "index": 12,
+            "startSec": 24,
+            "durationSec": 2,
+            "bytes": 792397,
+            "url": "content/v5/seg-00013.m4s"
+          },
+          {
+            "index": 13,
+            "startSec": 26,
+            "durationSec": 2,
+            "bytes": 773094,
+            "url": "content/v5/seg-00014.m4s"
+          },
+          {
+            "index": 14,
+            "startSec": 28,
+            "durationSec": 2,
+            "bytes": 778264,
+            "url": "content/v5/seg-00015.m4s"
+          },
+          {
+            "index": 15,
+            "startSec": 30,
+            "durationSec": 2,
+            "bytes": 806844,
+            "url": "content/v5/seg-00016.m4s"
+          },
+          {
+            "index": 16,
+            "startSec": 32,
+            "durationSec": 2,
+            "bytes": 762782,
+            "url": "content/v5/seg-00017.m4s"
+          },
+          {
+            "index": 17,
+            "startSec": 34,
+            "durationSec": 2,
+            "bytes": 840238,
+            "url": "content/v5/seg-00018.m4s"
+          },
+          {
+            "index": 18,
+            "startSec": 36,
+            "durationSec": 2,
+            "bytes": 797527,
+            "url": "content/v5/seg-00019.m4s"
+          },
+          {
+            "index": 19,
+            "startSec": 38,
+            "durationSec": 2,
+            "bytes": 768946,
+            "url": "content/v5/seg-00020.m4s"
+          },
+          {
+            "index": 20,
+            "startSec": 40,
+            "durationSec": 2,
+            "bytes": 778146,
+            "url": "content/v5/seg-00021.m4s"
+          },
+          {
+            "index": 21,
+            "startSec": 42,
+            "durationSec": 2,
+            "bytes": 806623,
+            "url": "content/v5/seg-00022.m4s"
+          },
+          {
+            "index": 22,
+            "startSec": 44,
+            "durationSec": 2,
+            "bytes": 794486,
+            "url": "content/v5/seg-00023.m4s"
+          },
+          {
+            "index": 23,
+            "startSec": 46,
+            "durationSec": 2,
+            "bytes": 821618,
+            "url": "content/v5/seg-00024.m4s"
+          },
+          {
+            "index": 24,
+            "startSec": 48,
+            "durationSec": 2,
+            "bytes": 786288,
+            "url": "content/v5/seg-00025.m4s"
+          },
+          {
+            "index": 25,
+            "startSec": 50,
+            "durationSec": 2,
+            "bytes": 740888,
+            "url": "content/v5/seg-00026.m4s"
+          },
+          {
+            "index": 26,
+            "startSec": 52,
+            "durationSec": 2,
+            "bytes": 770100,
+            "url": "content/v5/seg-00027.m4s"
+          },
+          {
+            "index": 27,
+            "startSec": 54,
+            "durationSec": 2,
+            "bytes": 795529,
+            "url": "content/v5/seg-00028.m4s"
+          },
+          {
+            "index": 28,
+            "startSec": 56,
+            "durationSec": 2,
+            "bytes": 763865,
+            "url": "content/v5/seg-00029.m4s"
+          },
+          {
+            "index": 29,
+            "startSec": 58,
+            "durationSec": 2,
+            "bytes": 839437,
+            "url": "content/v5/seg-00030.m4s"
+          },
+          {
+            "index": 30,
+            "startSec": 60,
+            "durationSec": 2,
+            "bytes": 809427,
+            "url": "content/v5/seg-00031.m4s"
+          },
+          {
+            "index": 31,
+            "startSec": 62,
+            "durationSec": 2,
+            "bytes": 783715,
+            "url": "content/v5/seg-00032.m4s"
+          },
+          {
+            "index": 32,
+            "startSec": 64,
+            "durationSec": 2,
+            "bytes": 799645,
+            "url": "content/v5/seg-00033.m4s"
+          },
+          {
+            "index": 33,
+            "startSec": 66,
+            "durationSec": 2,
+            "bytes": 775184,
+            "url": "content/v5/seg-00034.m4s"
+          },
+          {
+            "index": 34,
+            "startSec": 68,
+            "durationSec": 2,
+            "bytes": 797548,
+            "url": "content/v5/seg-00035.m4s"
+          },
+          {
+            "index": 35,
+            "startSec": 70,
+            "durationSec": 2,
+            "bytes": 790913,
+            "url": "content/v5/seg-00036.m4s"
+          },
+          {
+            "index": 36,
+            "startSec": 72,
+            "durationSec": 2,
+            "bytes": 800706,
+            "url": "content/v5/seg-00037.m4s"
+          },
+          {
+            "index": 37,
+            "startSec": 74,
+            "durationSec": 2,
+            "bytes": 836222,
+            "url": "content/v5/seg-00038.m4s"
+          },
+          {
+            "index": 38,
+            "startSec": 76,
+            "durationSec": 2,
+            "bytes": 768186,
+            "url": "content/v5/seg-00039.m4s"
+          },
+          {
+            "index": 39,
+            "startSec": 78,
+            "durationSec": 2,
+            "bytes": 802448,
+            "url": "content/v5/seg-00040.m4s"
+          },
+          {
+            "index": 40,
+            "startSec": 80,
+            "durationSec": 2,
+            "bytes": 805924,
+            "url": "content/v5/seg-00041.m4s"
+          },
+          {
+            "index": 41,
+            "startSec": 82,
+            "durationSec": 2,
+            "bytes": 799190,
+            "url": "content/v5/seg-00042.m4s"
+          },
+          {
+            "index": 42,
+            "startSec": 84,
+            "durationSec": 2,
+            "bytes": 802177,
+            "url": "content/v5/seg-00043.m4s"
+          },
+          {
+            "index": 43,
+            "startSec": 86,
+            "durationSec": 2,
+            "bytes": 801012,
+            "url": "content/v5/seg-00044.m4s"
+          },
+          {
+            "index": 44,
+            "startSec": 88,
+            "durationSec": 2,
+            "bytes": 781813,
+            "url": "content/v5/seg-00045.m4s"
+          }
+        ]
+      }
+    ]
+  },
+  "audio": {
+    "codec": "mp4a.40.2",
+    "nominalKbps": 64,
+    "actualKbps": 67,
+    "init": "content/audio/init.mp4",
+    "segments": [
+      {
+        "index": 0,
+        "startSec": 0,
+        "durationSec": 2,
+        "bytes": 16503,
+        "url": "content/audio/seg-00001.m4s"
+      },
+      {
+        "index": 1,
+        "startSec": 2,
+        "durationSec": 2,
+        "bytes": 16645,
+        "url": "content/audio/seg-00002.m4s"
+      },
+      {
+        "index": 2,
+        "startSec": 4,
+        "durationSec": 2,
+        "bytes": 16694,
+        "url": "content/audio/seg-00003.m4s"
+      },
+      {
+        "index": 3,
+        "startSec": 6,
+        "durationSec": 2,
+        "bytes": 16460,
+        "url": "content/audio/seg-00004.m4s"
+      },
+      {
+        "index": 4,
+        "startSec": 8,
+        "durationSec": 2,
+        "bytes": 16660,
+        "url": "content/audio/seg-00005.m4s"
+      },
+      {
+        "index": 5,
+        "startSec": 10,
+        "durationSec": 2,
+        "bytes": 16644,
+        "url": "content/audio/seg-00006.m4s"
+      },
+      {
+        "index": 6,
+        "startSec": 12,
+        "durationSec": 2,
+        "bytes": 16642,
+        "url": "content/audio/seg-00007.m4s"
+      },
+      {
+        "index": 7,
+        "startSec": 14,
+        "durationSec": 2,
+        "bytes": 16458,
+        "url": "content/audio/seg-00008.m4s"
+      },
+      {
+        "index": 8,
+        "startSec": 16,
+        "durationSec": 2,
+        "bytes": 16685,
+        "url": "content/audio/seg-00009.m4s"
+      },
+      {
+        "index": 9,
+        "startSec": 18,
+        "durationSec": 2,
+        "bytes": 16689,
+        "url": "content/audio/seg-00010.m4s"
+      },
+      {
+        "index": 10,
+        "startSec": 20,
+        "durationSec": 2,
+        "bytes": 16682,
+        "url": "content/audio/seg-00011.m4s"
+      },
+      {
+        "index": 11,
+        "startSec": 22,
+        "durationSec": 2,
+        "bytes": 16497,
+        "url": "content/audio/seg-00012.m4s"
+      },
+      {
+        "index": 12,
+        "startSec": 24,
+        "durationSec": 2,
+        "bytes": 16684,
+        "url": "content/audio/seg-00013.m4s"
+      },
+      {
+        "index": 13,
+        "startSec": 26,
+        "durationSec": 2,
+        "bytes": 16684,
+        "url": "content/audio/seg-00014.m4s"
+      },
+      {
+        "index": 14,
+        "startSec": 28,
+        "durationSec": 2,
+        "bytes": 16690,
+        "url": "content/audio/seg-00015.m4s"
+      },
+      {
+        "index": 15,
+        "startSec": 30,
+        "durationSec": 2,
+        "bytes": 16504,
+        "url": "content/audio/seg-00016.m4s"
+      },
+      {
+        "index": 16,
+        "startSec": 32,
+        "durationSec": 2,
+        "bytes": 16670,
+        "url": "content/audio/seg-00017.m4s"
+      },
+      {
+        "index": 17,
+        "startSec": 34,
+        "durationSec": 2,
+        "bytes": 16698,
+        "url": "content/audio/seg-00018.m4s"
+      },
+      {
+        "index": 18,
+        "startSec": 36,
+        "durationSec": 2,
+        "bytes": 16680,
+        "url": "content/audio/seg-00019.m4s"
+      },
+      {
+        "index": 19,
+        "startSec": 38,
+        "durationSec": 2,
+        "bytes": 16504,
+        "url": "content/audio/seg-00020.m4s"
+      },
+      {
+        "index": 20,
+        "startSec": 40,
+        "durationSec": 2,
+        "bytes": 16679,
+        "url": "content/audio/seg-00021.m4s"
+      },
+      {
+        "index": 21,
+        "startSec": 42,
+        "durationSec": 2,
+        "bytes": 16677,
+        "url": "content/audio/seg-00022.m4s"
+      },
+      {
+        "index": 22,
+        "startSec": 44,
+        "durationSec": 2,
+        "bytes": 16688,
+        "url": "content/audio/seg-00023.m4s"
+      },
+      {
+        "index": 23,
+        "startSec": 46,
+        "durationSec": 2,
+        "bytes": 16488,
+        "url": "content/audio/seg-00024.m4s"
+      },
+      {
+        "index": 24,
+        "startSec": 48,
+        "durationSec": 2,
+        "bytes": 16690,
+        "url": "content/audio/seg-00025.m4s"
+      },
+      {
+        "index": 25,
+        "startSec": 50,
+        "durationSec": 2,
+        "bytes": 16685,
+        "url": "content/audio/seg-00026.m4s"
+      },
+      {
+        "index": 26,
+        "startSec": 52,
+        "durationSec": 2,
+        "bytes": 16698,
+        "url": "content/audio/seg-00027.m4s"
+      },
+      {
+        "index": 27,
+        "startSec": 54,
+        "durationSec": 2,
+        "bytes": 16504,
+        "url": "content/audio/seg-00028.m4s"
+      },
+      {
+        "index": 28,
+        "startSec": 56,
+        "durationSec": 2,
+        "bytes": 16665,
+        "url": "content/audio/seg-00029.m4s"
+      },
+      {
+        "index": 29,
+        "startSec": 58,
+        "durationSec": 2,
+        "bytes": 16686,
+        "url": "content/audio/seg-00030.m4s"
+      },
+      {
+        "index": 30,
+        "startSec": 60,
+        "durationSec": 2,
+        "bytes": 16707,
+        "url": "content/audio/seg-00031.m4s"
+      },
+      {
+        "index": 31,
+        "startSec": 62,
+        "durationSec": 2,
+        "bytes": 16486,
+        "url": "content/audio/seg-00032.m4s"
+      },
+      {
+        "index": 32,
+        "startSec": 64,
+        "durationSec": 2,
+        "bytes": 16678,
+        "url": "content/audio/seg-00033.m4s"
+      },
+      {
+        "index": 33,
+        "startSec": 66,
+        "durationSec": 2,
+        "bytes": 16695,
+        "url": "content/audio/seg-00034.m4s"
+      },
+      {
+        "index": 34,
+        "startSec": 68,
+        "durationSec": 2,
+        "bytes": 16694,
+        "url": "content/audio/seg-00035.m4s"
+      },
+      {
+        "index": 35,
+        "startSec": 70,
+        "durationSec": 2,
+        "bytes": 16507,
+        "url": "content/audio/seg-00036.m4s"
+      },
+      {
+        "index": 36,
+        "startSec": 72,
+        "durationSec": 2,
+        "bytes": 16698,
+        "url": "content/audio/seg-00037.m4s"
+      },
+      {
+        "index": 37,
+        "startSec": 74,
+        "durationSec": 2,
+        "bytes": 16689,
+        "url": "content/audio/seg-00038.m4s"
+      },
+      {
+        "index": 38,
+        "startSec": 76,
+        "durationSec": 2,
+        "bytes": 16695,
+        "url": "content/audio/seg-00039.m4s"
+      },
+      {
+        "index": 39,
+        "startSec": 78,
+        "durationSec": 2,
+        "bytes": 16512,
+        "url": "content/audio/seg-00040.m4s"
+      },
+      {
+        "index": 40,
+        "startSec": 80,
+        "durationSec": 2,
+        "bytes": 16664,
+        "url": "content/audio/seg-00041.m4s"
+      },
+      {
+        "index": 41,
+        "startSec": 82,
+        "durationSec": 2,
+        "bytes": 16688,
+        "url": "content/audio/seg-00042.m4s"
+      },
+      {
+        "index": 42,
+        "startSec": 84,
+        "durationSec": 2,
+        "bytes": 16687,
+        "url": "content/audio/seg-00043.m4s"
+      },
+      {
+        "index": 43,
+        "startSec": 86,
+        "durationSec": 2,
+        "bytes": 16514,
+        "url": "content/audio/seg-00044.m4s"
+      },
+      {
+        "index": 44,
+        "startSec": 88,
+        "durationSec": 2,
+        "bytes": 16670,
+        "url": "content/audio/seg-00045.m4s"
+      }
+    ]
+  }
+}

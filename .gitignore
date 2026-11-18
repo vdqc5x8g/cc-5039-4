@@ -23,3 +23,15 @@ __pycache__/
 *.log
 .env
 .env.*
+
+# generated media and measurement artifacts (rebuild with npm run generate / matrix)
+build/
+content/
+runs/
+report/
+
+# Keep the playable media ladder and the report viewer source eligible.
+!/content/
+!/report/
+/report/*
+!/report/report.js

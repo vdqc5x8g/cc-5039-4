@@ -1,0 +1,18 @@
+{
+  "name": "adaptive-documentary-player",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Adaptive bitrate prototype for a portrait documentary, measured under reproducible shaped networks in Chromium",
+  "scripts": {
+    "generate": "node scripts/generate-content.mjs",
+    "serve": "node server/index.mjs",
+    "demo": "node harness/run.mjs --traces=drop --algos=hysteresis,buffer,naive,fixed --repeats=1",
+    "matrix": "node harness/run.mjs --traces=drop,oscillate,latency,errors,cache --algos=hysteresis,buffer,naive,fixed --repeats=1",
+    "report": "node harness/analyze.mjs"
+  },
+  "dependencies": {
+    "ffmpeg-static": "5.3.0",
+    "playwright": "1.65.1"
+  }
+}

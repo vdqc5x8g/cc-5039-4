@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Long Dry Season — adaptive bitrate prototype</title>
+<link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="dot"></span>
+    <div>
+      <h1>Adaptive documentary player</h1>
+      <p>Real six-rung ladder · MSE playback · shaped local networks</p>
+    </div>
+  </div>
+  <div class="runmeta" id="runmeta">
+    <span id="runState" class="pill pill-idle">idle</span>
+  </div>
+</header>
+
+<main class="layout">
+  <section class="stage">
+    <div class="phone">
+      <video id="video" playsinline muted></video>
+      <div class="phonesafe"></div>
+      <div class="overlay">
+        <div class="ov-row">
+          <span id="ovTitle">The Long Dry Season</span>
+          <span id="ovRung" class="tag">—</span>
+        </div>
+        <div class="ov-row small">
+          <span id="ovPlayhead">0.00s</span>
+          <span id="ovBuffer" class="buffer">buffer —</span>
+          <span id="ovStall" class="stalltag hidden">STALL</span>
+        </div>
+        <div class="ov-row small">
+          <span id="ovReq" class="reqtag">requesting —</span>
+        </div>
+        <div class="ov-bar"><div id="ovBufferBar" class="ov-bufferbar"></div></div>
+      </div>
+    </div>
+    <div class="stage-foot">
+      <div class="ladder" id="ladder"></div>
+      <div class="note">The badge is the rung the decoder is actually <em>presenting</em> (measured from the video frame size) — not the rung requested. "requesting" shows what the policy asked for; it can differ briefly while a switch takes effect at the next segment boundary.</div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="block decisions-block">
+      <div class="block-head">
+        <h2>Decision inputs</h2>
+        <span class="hint">live from the running estimator</span>
+      </div>
+      <div class="inputs">
+        <div class="in"><label>Estimate</label><b id="inEstimate">—</b><small id="inEstimateSub">kbps · robust median</small></div>
+        <div class="in"><label>Buffer</label><b id="inBuffer">—</b><small id="inBufferSub">s ahead · playable</small></div>
+        <div class="in"><label>Last transfer</label><b id="inLastKbps">—</b><small id="inLastSub">kbps (first→last byte)</small></div>
+        <div class="in"><label>Request wait</label><b id="inTtfb">—</b><small id="inTtfbSub">ms TTFB mean</small></div>
+      </div>
+      <div class="decision">
+        <div class="decision-row">
+          <span class="lbl">Policy says</span>
+          <b id="decPick">—</b>
+        </div>
+        <div class="decision-row">
+          <span class="lbl">On screen</span>
+          <b id="decPresented">—</b>
+        </div>
+        <div class="decision-row reason"><span id="decReason">waiting for first sample…</span></div>
+        <div class="decision-row samples">
+          <span id="sampleChips"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="block chart-block">
+      <div class="block-head">
+        <h2>Link, decisions, presentation</h2>
+        <span class="hint">ground truth is display-only</span>
+      </div>
+      <canvas id="chart" width="720" height="260"></canvas>
+      <div class="legend">
+        <span class="lg lg-link">scenario link</span>
+        <span class="lg lg-est">estimate</span>
+        <span class="lg lg-req">requested rung</span>
+        <span class="lg lg-pres">presented rung</span>
+        <span class="lg lg-stall">stall</span>
+      </div>
+    </div>
+
+    <div class="block log-block">
+      <div class="block-head">
+        <h2>Requests</h2>
+        <span class="hint" id="logSummary">—</span>
+      </div>
+      <div class="tablewrap"><table id="reqTable">
+        <thead><tr><th>t</th><th>seg</th><th>rung</th><th>bytes</th><th>TTFB</th><th>transfer</th><th>kbps</th><th>note</th></tr></thead>
+        <tbody></tbody>
+      </table></div>
+    </div>
+  </section>
+</main>
+
+<div id="gate" class="gate">
+  <div class="gate-card">
+    <h2>Ready to run</h2>
+    <p id="gateText">Waiting for harness instructions.</p>
+  </div>
+</div>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>
